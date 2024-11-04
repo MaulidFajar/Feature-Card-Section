@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[Add solution URL here](https://github.com/MaulidFajar/Feature-Card-Section/)]
+- Live Site URL: [[Add live site URL here](https://maulidfajar.github.io/Feature-Card-Section/)]
 
 ## My process
 
@@ -40,7 +40,6 @@ Users should be able to:
 
 ## Author
 
-- Github - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [[MaulidFajar](https://github.com/MaulidFajar/)]
+- Frontend Mentor - [[@MaulidFajar](https://www.frontendmentor.io/profile/MaulidFajar)]
 
