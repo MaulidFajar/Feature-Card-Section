@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://github.com/MaulidFajar/Feature-Card-Section/)]
-- Live Site URL: [[Add live site URL here](https://maulidfajar.github.io/Feature-Card-Section/)]
+- Solution URL: [[Solution](https://github.com/MaulidFajar/Feature-Card-Section/)]
+- Live Site URL: [[Live Site](https://maulidfajar.github.io/Feature-Card-Section/)]
 
 ## My process
 
